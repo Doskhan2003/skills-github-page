@@ -1,0 +1,86 @@
+/* Стили для сайта */
+
+bo
+body {
+    
+   
+font-family: Arial, sans-serif;
+    margin: 0;
+    
+   
+padding: 0;
+    
+    backgro
+
+   
+background-color: #f4f4f9;
+}
+
+header {
+    
+    ba
+background-color: #4CAF50;
+    
+  
+color: white;
+    
+  
+padding: 1rem;
+    
+    text-
+ 
+text-align: center;
+}
+
+h1 {
+    
+  
+margin: 0;
+}
+
+main {
+    
+    pa
+padding: 2rem;
+}
+
+h2 {
+    
+    col
+color: #333;
+}
+
+a {
+    
+ 
+color: #4CAF50;
+    
+    text-decora
+
+ 
+text-decoration: none;
+}
+
+
+}
+
+foot
+footer {
+    
+  
+background-color: #333;
+    color: white;
+    
+    text-alig
+
+  
+text-align: center;
+    padding: 1rem;
+    
+    positi
+position: fixed;
+    
+    wid
+width: 100%;
+    bottom: 0;
+}
